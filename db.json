@@ -36,6 +36,11 @@
          "id": 1,
          "username": "Pascal",
          "password": "third"
+      },
+        {
+         "id": 2,
+         "username": "Pascal",
+         "password": "third"
       }
       ]
 }
