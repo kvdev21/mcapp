@@ -30,5 +30,12 @@
          "language":"SQL",
          "edition":"second"
       }
-   ]
+   ],
+   "users":[
+      {
+         "id" : 1,
+         "username":"Pascal",
+         "password":"third"
+      }
+      ]
 }
