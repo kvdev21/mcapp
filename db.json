@@ -1,41 +1,41 @@
 {
-   "eBooks":[
+   "eBooks": [
       {
-         "id" : 1,
-         "language":"Pascal",
-         "edition":"third"
+         "id": 1,
+         "language": "Pascal",
+         "edition": "third"
       },
       {
-         "id" : 2,
-         "language":"Python",
-         "edition":"four"
+         "id": 2,
+         "language": "Python",
+         "edition": "four"
       },
       {
-         "id" : 3,
-         "language":"SQL",
-         "edition":"second"
+         "id": 3,
+         "language": "SQL",
+         "edition": "second"
       },
       {
-         "id" : 4,
-         "language":"Pascal",
-         "edition":"third"
+         "id": 4,
+         "language": "Pascal",
+         "edition": "third"
       },
       {
-         "id" : 5,
-         "language":"Python",
-         "edition":"four"
+         "id": 5,
+         "language": "Python",
+         "edition": "four"
       },
       {
-         "id" : 6,
-         "language":"SQL",
-         "edition":"second"
+         "id": 6,
+         "language": "SQL",
+         "edition": "second"
       }
    ],
-   "users":[
+   "users": [
       {
-         "id" : 1,
-         "username":"Pascal",
-         "password":"third"
+         "id": 1,
+         "username": "Pascal",
+         "password": "third"
       }
       ]
 }
